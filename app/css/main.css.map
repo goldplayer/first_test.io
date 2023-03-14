@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","_var.scss"],"names":[],"mappings":"AAEA;EACE;EACA;EACA,OCLS","file":"main.css","sourcesContent":["// $def-color = #000\r\n@import \"var\";\r\n*{\r\n  padding: 0;\r\n  margin: 0;\r\n  color: $def-color\r\n}","$def-color:#000;"]}
